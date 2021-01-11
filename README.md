@@ -11,10 +11,10 @@
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCR/issues) to report a bug or request a feature 
 <p>&nbsp;</p>
 
-## Version 1.2.5 is released on 12-2020  
+## Version 1.2.7 is released on 01-2021  
 
 ### New in this version:
-* Changed the support site to GitHub.
+* Added user settable macro’s for locking and unlocking the table using a second stepper.
   
 <p>&nbsp;</p>  
 
