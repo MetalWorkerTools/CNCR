@@ -13,11 +13,10 @@ If you ever wanted to CNC your rotary table, this is the easy and affordable way
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCR/issues) to report a bug or request a feature 
 <p>&nbsp;</p>
 
-## Version 1.2.7 is released on 01-2021  
+## Version 1.2.9 is released on 03-2021  
 
 ### New in this version:
-* Added user settable macro’s for locking and unlocking the table using a second stepper.
-  
+* Added a PSteps task to rotate the rotary table at evenly spaced positions from a settable starting point.  
 <p>&nbsp;</p>  
 
 Thinking about CNC a Lathe, checkout [CNCL](https://www.microsoft.com/store/apps/9P42TB5T697H) available from the Microsoft Store.  
