@@ -2,6 +2,7 @@
 [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) is optimized to run on a small 7" touch screen. The supported controller is GRBL version 1.1 (or compatible grblHAL, grbl_ESP32), a free open source controller based on affordable Arduino hardware. The controller can be connected by USB, Bluetooth or a (wireless) network. If you ever wanted to CNC your rotary table, this is the easy and affordable way to do it.  
 [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) is also provided as a 30 days trial version. The trial version is a full version without limitations. Check the License Information task for more information.  
 [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) is available from the Microsoft Store.  
+
 Thinking about CNC a Lathe, checkout [CNCL](https://www.microsoft.com/store/apps/9P42TB5T697H) from the Microsoft Store.  
 <p>&nbsp;</p> 
 
