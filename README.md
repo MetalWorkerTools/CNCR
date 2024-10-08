@@ -8,5 +8,5 @@ Thinking about CNC a Lathe, checkout [CNCL](https://www.microsoft.com/store/apps
 ## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCR/wiki)
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCR/issues) to report a bug or request a feature 
 ## Version [1.2.25](https://github.com/MetalWorkerTools/CNCR/wiki/Version-Information#version-1225-10-2024) is released on 10-2024
-
+ 
  
